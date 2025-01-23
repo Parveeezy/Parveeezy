@@ -1,5 +1,7 @@
-# Frontend Developer 👋
+<h1 align="center">Frontend Developer 👋</h1> 
 
+### Обо мне:
+  
 <!--
 **Parveeezy/Parveeezy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
