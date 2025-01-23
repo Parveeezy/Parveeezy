@@ -12,7 +12,7 @@
 #### • UI: Storybook, разработка UI-китов.
 #### • Вёрстка: HTML5, CSS3, Figma, SCSS, SASS, LESS
 
-<img src='https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg'/>
+<img src='https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg' style="width: 25px; height: 25px;"/>
   
 <!--
 **Parveeezy/Parveeezy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
