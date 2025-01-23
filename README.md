@@ -1,20 +1,20 @@
 <h1 align="center">Frontend Developer 👋</h1> 
 
-### Обо мне:
+## Обо мне:
 
 #### Привет, я Парвиз, Frontend-разработчик, в арсенале которого более 4 лет заряженного опыта, превращения бизнес-идей в реальность. Имею опыт в продуктовой разработке, а также создании и поддержке проектов с нуля на React/TypeScript стеке.
 
-#### Мой стек технологий:
-#### • Frontend: React, TypeScript, Redux Toolkit/RTK Query, модульные стили (CSS Modules), FSD (Feature Sliced Design), Styled Components, MaterialUI, JavaScript.
-#### • Инфраструктура: Gitlab CI/CD, Nginx, Node.js, Webpack, Vite.
-#### • Формы и валидация: React Hook Form, Formik, Yup, Zod;
-#### • Тестирование: Jest, React Testing Library.
-#### • UI: Storybook, разработка UI-китов.
-#### • Вёрстка: HTML5, CSS3, Figma, SCSS, SASS, LESS
+##### Мой стек технологий:
+##### • Frontend: React, TypeScript, Redux Toolkit/RTK Query, модульные стили (CSS Modules), FSD (Feature Sliced Design), Styled Components, MaterialUI, JavaScript.
+##### • Инфраструктура: Gitlab CI/CD, Nginx, Node.js, Webpack, Vite.
+##### • Формы и валидация: React Hook Form, Formik, Yup, Zod;
+##### • Тестирование: Jest, React Testing Library.
+##### • UI: Storybook, разработка UI-китов.
+##### • Вёрстка: HTML5, CSS3, Figma, SCSS, SASS, LESS
 
-### Technologies & Soft
+<h3>Technologies & Soft</h3>
 
-#### Frontend Core Layer:
+<h4>Frontend Core Layer:</h4>
 
 <div style="display: flex; justify-content: center; align-items: center">
   <img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg' style="width: 35px; height: 35px;"/>
@@ -39,7 +39,7 @@
   <img src='https://github.com/devicons/devicon/blob/master/icons/rollup/rollup-original.svg' style="width: 35px; height: 35px;"/>
 </div>
 
-#### Frotend Layer UI:
+<h4>Frotend Layer UI:</h4>
 
 <div style="display: flex; justify-content: center; align-items: center">
   <img src='https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg' style="width: 35px; height: 35px;"/>
@@ -49,7 +49,7 @@
   <img src='https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg' style="width: 35px; height: 35px;"/>
 </div>
 
-#### Frotend Layer Tests:
+<h4>Frotend Layer Tests:</h4>
 
 <div style="display: flex; justify-content: center; align-items: center">
   <img src='https://github.com/devicons/devicon/blob/master/icons/playwright/playwright-original.svg' style="width: 35px; height: 35px;"/>
@@ -59,8 +59,7 @@
   <img src='https://github.com/devicons/devicon/blob/master/icons/vitest/vitest-original.svg' style="width: 35px; height: 35px;"/>
 </div>
 
-#### CI/CD stack:
-
+<h4>CI/CD stack:</h4>
 <div style="display: flex; justify-content: center; align-items: center">
   <img src='https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg' style="width: 35px; height: 35px;"/>
   <img src='https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg' style="width: 35px; height: 35px;"/>
