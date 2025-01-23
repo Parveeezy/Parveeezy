@@ -5,18 +5,18 @@
 <h3>Привет, я Парвиз, Frontend-разработчик, в арсенале которого более 4 лет заряженного опыта, превращения бизнес-идей в реальность. Имею опыт в продуктовой разработке, а также создании и поддержке проектов с нуля на React/TypeScript стеке.</h3>
  
 <h4>Мой стек технологий:</h4>
- <p style="font-weight: bold"></p>
-<div><p style="font-weight: bold">• Frontend:</p> React, TypeScript, Redux Toolkit/RTK Query, модульные стили (CSS Modules), FSD (Feature Sliced Design), Styled Components, MaterialUI, JavaScript</div>
+
+<div> <p style="font-weight: 700">• Frontend:</p> React, TypeScript, Redux Toolkit/RTK Query, модульные стили (CSS Modules), FSD (Feature Sliced Design), Styled Components, MaterialUI, JavaScript </div>
  <br/>
-<div> <p style="font-weight: bold">• Инфраструктура:</p> Gitlab CI/CD, Nginx, Node.js, Webpack, Vite</div>
+<div> <p style="font-weight: 700">• Инфраструктура:</p> Gitlab CI/CD, Nginx, Node.js, Webpack, Vite</div>
  <br/>
-<div> <p style="font-weight: bold">• Формы и валидация:</p> React Hook Form, Formik, Yup, Zod</div>
+<div> <p style="font-weight: 700">• Формы и валидация:</p> React Hook Form, Formik, Yup, Zod</div>
  <br/>
-<div> <p style="font-weight: bold">• Тестирование:</p> Jest, React Testing Library</div>
+<div> <p style="font-weight: 700">• Тестирование:</p> Jest, React Testing Library</div>
   <br/>
-<div> <p style="font-weight: bold">• UI:</p> Storybook, разработка UI-китов</div>
+<div> <p style="font-weight: 700">• UI:</p> Storybook, разработка UI-китов</div>
   <br/>
-<div> <p style="font-weight: bold">• Вёрстка:</p> HTML5, CSS3, Figma, SCSS, SASS, LESS</div>
+<div> <p style="font-weight: 700">• Вёрстка:</p> HTML5, CSS3, Figma, SCSS, SASS, LESS</div>
   <br/>
   
 <h3>Technologies & Soft</h3>
