@@ -5,12 +5,12 @@
 <h3>Привет, я Парвиз, Frontend-разработчик, в арсенале которого более 4 лет заряженного опыта, превращения бизнес-идей в реальность. Имею опыт в продуктовой разработке, а также создании и поддержке проектов с нуля на React/TypeScript стеке.</h3>
 
 <h4>Мой стек технологий:</h4>
-<div>• Frontend: React, TypeScript, Redux Toolkit/RTK Query, модульные стили (CSS Modules), FSD (Feature Sliced Design), Styled Components, MaterialUI, JavaScript</div>
-<div>• Инфраструктура: Gitlab CI/CD, Nginx, Node.js, Webpack, Vite</div>
-<div>• Формы и валидация: React Hook Form, Formik, Yup, Zod</div>
-<div>• Тестирование: Jest, React Testing Library</div>
-<div>• UI: Storybook, разработка UI-китов</div>
-<div>• Вёрстка: HTML5, CSS3, Figma, SCSS, SASS, LESS</div>
+<div style="margin: 10px">• Frontend: React, TypeScript, Redux Toolkit/RTK Query, модульные стили (CSS Modules), FSD (Feature Sliced Design), Styled Components, MaterialUI, JavaScript</div>
+<div style="margin: 10px">• Инфраструктура: Gitlab CI/CD, Nginx, Node.js, Webpack, Vite</div>
+<div style="margin: 10px">• Формы и валидация: React Hook Form, Formik, Yup, Zod</div>
+<div style="margin: 10px">• Тестирование: Jest, React Testing Library</div>
+<div style="margin: 10px">• UI: Storybook, разработка UI-китов</div>
+<div style="margin: 10px">• Вёрстка: HTML5, CSS3, Figma, SCSS, SASS, LESS</div>
 
 <h3>Technologies & Soft</h3>
 
