@@ -12,6 +12,8 @@
 #### • UI: Storybook, разработка UI-китов.
 #### • Вёрстка: HTML5, CSS3, Figma, SCSS, SASS, LESS
 
+### Technologies & Soft
+
 #### Frontend Core Layer:
 
 <div style="display: flex; justify-content: center; align-items: center">
