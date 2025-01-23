@@ -11,6 +11,8 @@
 #### • Тестирование: Jest, React Testing Library.
 #### • UI: Storybook, разработка UI-китов.
 #### • Вёрстка: HTML5, CSS3, Figma, SCSS, SASS, LESS
+
+<a src='https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg'></a>
   
 <!--
 **Parveeezy/Parveeezy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
