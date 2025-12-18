@@ -6,7 +6,7 @@
  
 <h4>Мой стек технологий:</h4>
 
-<div> <h4>• Frontend:</h4> React, TypeScript, Redux Toolkit/RTK Query, модульные стили (CSS Modules), FSD (Feature Sliced Design), Styled Components, MaterialUI, JavaScript </div>
+<div> <h4>• Frontend:</h4>Angular, NgRx, RxJS, React, TypeScript, Redux Toolkit/RTK Query, CSS Modules, FSD (Feature Sliced Design), Styled Components, MaterialUI, JavaScript </div>
  <br/>
 <div> <h4>• Инфраструктура:</h4> Gitlab CI/CD, Nginx, Node.js, Webpack, Vite</div>
  <br/>
