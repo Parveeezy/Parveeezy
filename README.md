@@ -31,6 +31,8 @@
   <img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg' style="width: 35px; height: 35px;"/>
   <img src='https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg' style="width: 35px; height: 35px;"/>
   <img src='https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg' style="width: 35px; height: 35px;"/>
+  <img src='https://github.com/devicons/devicon/blob/master/icons/ngrx/ngrx-original.svg' style="width: 35px; height: 35px;"/>
+  <img src='https://github.com/devicons/devicon/blob/master/icons/rxjs/rxjs-original.svg' style="width: 35px; height: 35px;"/>
   <img src='https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg' style="width: 35px; height: 35px;"/>
   <img src='https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg' style="width: 35px; height: 35px;"/>
   <img src='https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg' style="width: 35px; height: 35px;"/>
